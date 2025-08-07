@@ -19,7 +19,7 @@ A simple, fast, and secure password generator built using **HTML**, **CSS**, and
 
 ## 📸 Preview
 
-![App Screenshot](https://pass-genrators.netlify.app/screenshot.png) <!-- Replace with real image if available -->
+<img width="536" height="364" alt="image" src="https://github.com/user-attachments/assets/37c0dfb9-92ba-43f3-abdc-2500485b140b" />
 
 ## 📂 Project Structure
 
