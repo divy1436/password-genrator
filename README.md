@@ -1,5 +1,5 @@
 
-# 🔐 Password Generator
+#  Password Generator
 
 A simple, fast, and secure password generator built using **HTML**, **CSS**, and **JavaScript** with **Vite** for blazing-fast development and build.
 
